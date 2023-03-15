@@ -1,0 +1,11 @@
+form {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: palegreen;
+}
+
+ul {
+    background-color: powderblue;
+}
